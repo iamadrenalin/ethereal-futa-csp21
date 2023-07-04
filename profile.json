@@ -1,0 +1,22 @@
+[
+    {
+      "image": "images/image-1.jpg",
+      "name": "Roland Walter",
+      "bio": "Roland Walter is a talented developer with a passion for coding and creating innovative solutions. He has several years of experience in web development and enjoys working with various technologies."
+    },
+    {
+      "image": "images/image-2.jpg",
+      "name": "Natasha Perry",
+      "bio": "Natasha Perry is a skilled designer specializing in user interface and user experience. She has a keen eye for detail and a creative approach to problem-solving. Jane loves turning ideas into visually appealing designs."
+    },
+    {
+      "image": "images/image-3.jpg",
+      "name": "Barbara Martinez",
+      "bio": "Barbara Martinez is a dedicated marketer with a strong background in digital marketing strategies. He excels in developing marketing campaigns that drive customer engagement and boost brand awareness."
+    },
+    {
+      "image": "images/image-4.jpg",
+      "name": "Andrew Smith",
+      "bio": "Andrew Smith is a dedicated marketer with a strong background in digital marketing strategies. He excels in developing marketing campaigns that drive customer engagement and boost brand awareness."
+    }
+]
